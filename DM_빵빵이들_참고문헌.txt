@@ -1,0 +1,21 @@
+1. 자료조사
+가) 전력 소비 예측의 필요성 및 상관관계 논문
+1) 송경빈, 문찬호 and 권보성. (2022). 한국 전력시스템의 240시간 전력수요예측에 대한 딥러닝 모델과 학습기법. 전기학회논문지, 71(4), 585-591.
+논문 링크: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002827916
+2) 김지은, 천관호. (개최날짜). LSTM을 활용한 단기 전력수요 예측기법. 대한전기학회 학술대회 논문집, 개최지.
+논문 링크: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11512687
+3) 권보성, 전재성, 공병철. (2023). 단기 전력수요예측이 한국의 전력시장 가격에 미치는 영향 분석. 대한전기학회 학술대회 논문집, 개최지.
+논문 링크: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11512378
+4) 차현종, 강아름. (2023). 기상정보를 활용한 머신러닝 기반의 전력수요 예측 모델. 한국콘텐츠학회논문지, 23(2), 117-124, 10.5392/JKCA.2023.23.02.117
+논문 링크: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11218638
+
+나) 전력 소비 예측의 필요성 및 피해사례
+1) 김형욱, 「날씨 따라 바뀌는 전력수요 예측…한전, 기상청 빅데이터 공유 확대」, 『이데일리』 2022.07.12, https://m.edaily.co.kr/news/Read?newsId=03289846632393864&mediaCodeNo=257&utm_source=https://www.google.com/(2023-11-03 접속).
+2) 부형권, 「심야전력 수요예측 잘못 한전 125억 경영손실」. 『동아일보』 2009-09-21, https://www.donga.com/news//article/all/20010204/7643869/1 (2023-11-03 접속).
+3) 성수영, 「전력수요 예측은 왜 번번이 틀리나」, 『생글생글』 2018.08.20, https://sgsg.hankyung.com/article/2018081702641(2023-11-03 접속).
+4) 성수영, 「전력수요 예측은 왜 번번이 틀리나」, 『생글생글』 2018.08.20, https://sgsg.hankyung.com/article/2018081703391(2023-11-03 접속).
+5) 편집팀, 「[에릭인사이트] 4차 산업혁명에는 ‘전력’이 핵심이다」, 『전기신문』 2021.06.03, https://www.electimes.com/news/articleView.html?idxno=218285 (2023-11-06 접속).
+
+
+
+
